@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Personal Website</title>
+    <title>Your Name - Personal Website</sujal valmiki>
 </head>
 <body>
     <header>
-        <h1>Welcome to Your Name's Website</h1>
+        <h1>Welcome to Your Name's Website</hvintage vibes thrift>
     </header>
     <nav>
         <ul>

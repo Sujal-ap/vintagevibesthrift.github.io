@@ -77,5 +77,16 @@
 </body>
 </html>
 
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <!-- Add an image with the <img> tag -->
+    <img src="pexels-pixabay-276517.jpg-20240410T134203Z-001.zip" alt="Description of the image">
+</body>
+</html>

@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zams Fashion</title>
+    <title>vintage vibes thrift</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
         <div class="container">
-            <h1>Zams Fashion</h1>
+            <h1>vinatge vibes</h1>
             <nav>
                 <ul>
                     <li><a href="#">Home</a></li>

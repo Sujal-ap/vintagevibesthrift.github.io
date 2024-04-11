@@ -51,3 +51,31 @@
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <style>
+        /* CSS to style the image */
+        img {
+            width: 100%; /* Make the image responsive */
+            max-width: 500px; /* Limit the maximum width of the image */
+            height: auto; /* Maintain aspect ratio */
+            display: block; /* Prevents extra space below the image */
+            margin: 0 auto; /* Center the image horizontally */
+            border: 2px solid #ddd; /* Add a border around the image */
+            border-radius: 5px; /* Add rounded corners to the image */
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <!-- Image added using the <img> tag -->
+    <img src="image.jpg" alt="Description of the image">
+</body>
+</html>
+
+
+

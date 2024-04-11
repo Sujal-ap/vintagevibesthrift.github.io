@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Personal Website</sujal valmiki>
+    <title>Your Name - Personal website that names vintage vibes thrift</title>
 </head>
 <body>
     <header>

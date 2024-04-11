@@ -3,35 +3,51 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Personal website that names vintage vibes thrift</title>
+    <title>Zams Fashion</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Welcome to Your vinatge vibes thrift Website</h1>
+        <div class="container">
+            <h1>Zams Fashion</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Shop</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
-    <nav>
-        <ul>
-            <li><a href="#about">About</a></li>
-            <li><a href="#portfolio">Portfolio</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
-    <main>
-        <section id="about">
-            <h2>About Me</h2>
-            <p>Write a brief introduction about yourself here.</p>
-        </section>
-        <section id="portfolio">
-            <h2>Portfolio</h2>
-            <p>Display your projects, work samples, or achievements here.</p>
-        </section>
-        <section id="contact">
-            <h2>Contact Me</h2>
-            <p>Provide your contact information or a contact form here.</p>
-        </section>
-    </main>
+
+    <section id="banner">
+        <div class="container">
+            <h2>Welcome to Zams Fashion</h2>
+            <p>Discover the latest trends in fashion.</p>
+            <a href="#" class="btn">Shop Now</a>
+        </div>
+    </section>
+
+    <section id="products">
+        <div class="container">
+            <h2>Featured Products</h2>
+            <!-- Product Cards -->
+            <div class="product-card">
+                <img src="product1.jpg" alt="Product 1">
+                <h3>Product 1</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <a href="#" class="btn">View Details</a>
+            </div>
+            <!-- Repeat for other products -->
+        </div>
+    </section>
+
     <footer>
-        <p>&copy; 2024 Your Name</p>
+        <div class="container">
+            <p>&copy; 2024 Zams Fashion</p>
+        </div>
     </footer>
 </body>
 </html>
+

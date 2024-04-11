@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Your Name's Website</hvintage vibes thrift>
+        <h1>Welcome to Your vinatge vibes thrift Website</h1>
     </header>
     <nav>
         <ul>

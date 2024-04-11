@@ -71,7 +71,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to sujal valmiki's Website</h1>
+    <h1>Welcome to sujal valmiki's Website h1</h1>
     <!-- Image added using the <img> tag -->
     <img src="image.jpg" alt="Description of the image">
 </body>
